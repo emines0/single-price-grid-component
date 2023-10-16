@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://github.com/emines0/single-price-grid-component)
--  Live Site URL: [Add live site URL here](https://single-price-grid-component-git-main-emines0s-projects.vercel.app/)
+-  Solution URL: [Github](https://github.com/emines0/single-price-grid-component)
+-  Live Site URL: [Vercel](https://single-price-grid-component-git-main-emines0s-projects.vercel.app/)
 
 ## My process
 
