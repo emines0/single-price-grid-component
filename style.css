@@ -162,3 +162,30 @@ footer {
   width: 100%;
   text-align: center;
 }
+
+@media (max-width: 978px) {
+  .single-price-container {
+    max-width: 80%;
+  }
+
+  .single-price-container .text-boxes {
+    grid-template-columns: 1fr;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+  }
+
+  .single-price-container .text-boxes .box-1 {
+    border-bottom-left-radius: 0;
+  }
+
+  .single-price-container header p {
+    width: 95%;
+    line-height: 2;
+  }
+
+  .single-price-container .text-boxes .box-2 {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+}
